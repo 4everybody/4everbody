@@ -1,2 +1,2 @@
-# 4everbody
+# 4everybody
 The website for everyone
